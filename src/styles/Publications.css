@@ -1,0 +1,37 @@
+.publications-container {
+    padding: 20px;
+    max-width: 800px; /* Make the page narrower for better readability */
+    margin: 0 auto;
+  }
+  
+  .publications-container h1 {
+    text-align: center;
+    color: #1b73a9;
+    margin-bottom: 40px;
+  }
+  
+  .publication-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .publication-item {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .publication-item i {
+    font-style: italic;
+  }
+  
+  .publication-item a {
+    color: #1b73a9;
+    text-decoration: none;
+  }
+  
+  .publication-item a:hover {
+    text-decoration: underline;
+  }
+  

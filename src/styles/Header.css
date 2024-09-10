@@ -1,0 +1,104 @@
+/* Header container */
+.header {
+  background-color: #094c75; /* Insight blue color */
+  padding: 15px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: auto; /* Allow header to adjust height based on content */
+  overflow: hidden; /* Ensure no content overflows outside the header */
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Left Section - Logo */
+.header-left {
+  max-height: 80px; /* Set maximum height for the logo section to prevent overflow */
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  padding-left: -10px;
+  height: 400px; /* Increase logo size to match Insight logo */
+  width: auto; /* Keep the aspect ratio */
+  object-fit: contain; /* Ensure the logo maintains its aspect ratio */
+}
+
+/* Center Section - Navigation */
+.header-nav {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.header-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header-nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.header-nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.header-nav ul li a:hover {
+  border-bottom: 2px solid #ffdb4d;
+}
+
+/* Right Section - Social Icons and Search */
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.social-icon {
+  width: 20px;
+  margin-right: 15px;
+}
+
+.sfi-logo {
+  height: 40px;
+  margin-right: 15px;
+}
+
+.search-icon {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.search-icon:hover {
+  color: #ffdb4d;
+}
+
+/* Responsive Media Query to Adjust for Small Screens */
+@media screen and (max-width: 768px) {
+  .logo {
+    height: 60px; /* Slightly smaller logo size for mobile screens */
+    width: auto;
+  }
+
+  .header-nav ul li a {
+    font-size: 14px; /* Reduce font size for navigation links */
+  }
+
+  .social-icon {
+    width: 18px; /* Smaller social icons for mobile */
+  }
+}

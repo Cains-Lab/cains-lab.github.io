@@ -1,0 +1,71 @@
+/* Footer container */
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+}
+
+/* Institution Container: Full-width ribbon effect */
+.institution-container {
+  background-color: #fff;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 30px;
+  max-width: 100%; /* Ensures the ribbon spans the entire width */
+  box-sizing: border-box;
+}
+
+.institution-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%; /* Ensures that the sections take half of the container width */
+}
+
+.institution-section h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.institution-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.institution-logos img {
+  margin: 0 20px;
+  height: 60px; /* Ensure logos have uniform height */
+  object-fit: contain;
+  display: inline-block;
+}
+
+/* Legal Links (below the ribbon) */
+.footer-legal {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #e6e6e6;
+  padding-top: 15px;
+  margin-top: 20px;
+}
+
+.footer-legal a {
+  color: #0066cc;
+  margin: 0 15px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.footer-legal a:hover {
+  text-decoration: underline;
+}

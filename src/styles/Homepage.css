@@ -1,0 +1,29 @@
+.homepage {
+    text-align: center;
+    color: #fff;
+  }
+  
+  .banner {
+    background-image: url('/Users/somyajitchakraborty/Desktop/cains-research-website/public/assets/images/banner-bg.png');
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .cta-button {
+    padding: 12px 30px;
+    color: #5fb3e7;
+    background-color: transparent;
+    border: 2px solid #5fb3e7;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    background-color: #5fb3e7;
+    color: white;
+  }
+  

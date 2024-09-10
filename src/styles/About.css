@@ -1,0 +1,19 @@
+.about-intro {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .about-features {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+  }
+  
+  .feature-card {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+  }
+  
