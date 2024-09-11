@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cains-lab/static/css/main.dd580383.css",
-    "main.js": "/cains-lab/static/js/main.edb51ebe.js",
-    "static/js/453.bd9164af.chunk.js": "/cains-lab/static/js/453.bd9164af.chunk.js",
-    "static/media/banner-bg.png": "/cains-lab/static/media/banner-bg.7561b72a4d272ce43463.png",
-    "static/media/prof3.gif": "/cains-lab/static/media/prof3.ee5700327a6232c27501.gif",
-    "static/media/tiu-logo.png": "/cains-lab/static/media/tiu-logo.7785276ac4999719aa66.png",
-    "static/media/prof1.png": "/cains-lab/static/media/prof1.632898bea8bd15b7e6da.png",
-    "static/media/logo.png": "/cains-lab/static/media/logo.cc174b7160d08455eead.png",
-    "static/media/twitter.png": "/cains-lab/static/media/twitter.0072d3b40c54d068947a.png",
-    "static/media/iiit-logo.png": "/cains-lab/static/media/iiit-logo.30eaa45346c291eadc1e.png",
-    "static/media/linkedin.png": "/cains-lab/static/media/linkedin.3eb973e69dfd3a98ce0a.png",
-    "index.html": "/cains-lab/index.html",
-    "main.dd580383.css.map": "/cains-lab/static/css/main.dd580383.css.map",
-    "main.edb51ebe.js.map": "/cains-lab/static/js/main.edb51ebe.js.map",
-    "453.bd9164af.chunk.js.map": "/cains-lab/static/js/453.bd9164af.chunk.js.map"
+    "main.css": "/static/css/main.a9042542.css",
+    "main.js": "/static/js/main.395c45f7.js",
+    "static/js/453.bd9164af.chunk.js": "/static/js/453.bd9164af.chunk.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.7561b72a4d272ce43463.png",
+    "static/media/prof3.gif": "/static/media/prof3.ee5700327a6232c27501.gif",
+    "static/media/tiu-logo.png": "/static/media/tiu-logo.7785276ac4999719aa66.png",
+    "static/media/prof1.png": "/static/media/prof1.632898bea8bd15b7e6da.png",
+    "static/media/logo.png": "/static/media/logo.cc174b7160d08455eead.png",
+    "static/media/twitter.png": "/static/media/twitter.0072d3b40c54d068947a.png",
+    "static/media/iiit-logo.png": "/static/media/iiit-logo.30eaa45346c291eadc1e.png",
+    "static/media/linkedin.png": "/static/media/linkedin.3eb973e69dfd3a98ce0a.png",
+    "index.html": "/index.html",
+    "main.a9042542.css.map": "/static/css/main.a9042542.css.map",
+    "main.395c45f7.js.map": "/static/js/main.395c45f7.js.map",
+    "453.bd9164af.chunk.js.map": "/static/js/453.bd9164af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd580383.css",
-    "static/js/main.edb51ebe.js"
+    "static/css/main.a9042542.css",
+    "static/js/main.395c45f7.js"
   ]
 }
