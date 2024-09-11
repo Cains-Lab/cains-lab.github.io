@@ -4,7 +4,7 @@
   }
   
   .banner {
-    background-image: url('/Users/somyajitchakraborty/Desktop/cains-research-website/public/assets/images/banner-bg.png');
+    background-image: url('../assets/banner-bg.png');
     background-size: cover;
     height: 70vh;
     display: flex;

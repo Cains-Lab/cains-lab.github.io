@@ -1,7 +1,7 @@
 {
   "name": "cains-research-website",
   "version": "0.1.0",
-  "homepage": "https://cains-lab.github.io/cains-lab",
+  "homepage": "https://cains-lab.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
